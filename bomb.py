@@ -63,7 +63,7 @@ clear()
 header()
 
 #UPDATOR
-print(cyan+"\t\t[•]Checking For Updates...\n")
+print(cyan+"\n\t\t[•]Checking For Updates...\n")
 
 version = open(".version.txt")
 
@@ -73,7 +73,7 @@ mainversion = mainversion.text
 
 time.sleep(0.6)
 
-if(version==mainversion):
+if(version.read() == mainversion.text):
 	print(green+"      You are using the latest version of BL-BOMB")
 
 else:
