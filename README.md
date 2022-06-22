@@ -20,7 +20,7 @@ pip install requests -y
 
 pip install mechanize -y
 
-git clone https://github.com/ShTasrif/cybersh
+git clone https://github.com/ShTasrif/BL-BOMB
 
 ```
 ## Run 
