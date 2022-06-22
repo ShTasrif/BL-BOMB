@@ -28,3 +28,5 @@ git clone https://github.com/ShTasrif/BL-BOMB
 cd BL-BOMB
 python3 bomber.py
 ```
+## Screenshots 
+![IMG_20220622_213135](https://user-images.githubusercontent.com/85736436/175073348-46e774cc-4b65-4071-aa2c-1f3a674500ad.jpg)
