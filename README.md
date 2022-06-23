@@ -33,5 +33,5 @@ python3 bomber.py
 <br>
 <img src="https://profile-counter.glitch.me/ShTasrif/count.svg" alt="Visitors">
 
-## Screenshots 
+## Screenshots: 
 ![IMG_20220622_213135](https://user-images.githubusercontent.com/85736436/175073348-46e774cc-4b65-4071-aa2c-1f3a674500ad.jpg)
