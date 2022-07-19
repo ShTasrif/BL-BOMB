@@ -26,7 +26,7 @@ git clone https://github.com/ShTasrif/BL-BOMB
 ## Run : 
 ```
 cd BL-BOMB
-python3 bomber.py
+python3 bomb.py
 ```
 <br><br>
 <h3>Visitors :</h3>
